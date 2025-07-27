@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 POPCULT: Your AI Concert Bestie
 Outfits. Friends. Chaos. All sorted.
 
@@ -14,10 +14,10 @@ It blends AI, real-time data, and community power to streamline everything — f
 Key Features:
 1. Style Me (OOTN)
 2. Pack My Bag
-3. Find My Friend (Frens)
+3. Find My Friend 
 4. Community Board
-5. Crowd BlenD
-6. Concert Journal (Memvary Arms)
+5. Crowd Blend
+6. Concert Journal 
 
 🛠 Tech Stack
 Frontend: React + TypeScript
@@ -42,4 +42,4 @@ POPCULT isn’t just an app.
 It’s your entire concert journey, curated, simplified, and made unforgettable.
 =======
 # POPCULT
->>>>>>> 6b4440dbe2bca87d1572618e4203eab793b27d52
+
